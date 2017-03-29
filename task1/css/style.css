@@ -1,0 +1,18 @@
+a {
+    color: #333;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color: #666;
+    text-decoration: none;
+}
+label {
+    text-align: left !important;
+}
+thead {
+    background-color: #333;
+    color: #fff;
+}
+.container-fluid {
+    margin-top: 15px;
+}
